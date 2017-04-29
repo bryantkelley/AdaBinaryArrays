@@ -1,0 +1,29 @@
+Creating random Binary Array...
+Printing random Binary Array...
+0111111110001011
+
+Converting to Integer...
+      32651
+
+Converting Integer 15341 to Binary Array...
+0011101111101101
+
+Adding the Second Array to the First Array...
+Adding two arrays that sum to more than 65535 will lose information.
+1011101101111000
+
+Adding Integer 15341 to First Binary Array...
+Adding two an array and integer that sum to more than 65535 will lose information.
+0100001110011110
+
+Subtracting the Second Array from the First Array...
+If the Second Array is larger than the First Array this result will be incorrect.
+0100001110011110
+
+Subtracting the Integer 15341 from the First Array...
+If the Second Array is larger than the First Array this result will be incorrect.
+0100001110011110
+
+Reversing the Fourth Array...
+0111100111000010
+
